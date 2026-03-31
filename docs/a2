@@ -1,0 +1,21 @@
+
+
+city = 'Skopje'
+
+student = 250
+
+print(city, student)
+
+
+print(type(age))
+print(type(student))
+
+
+age= '20'
+
+age_num = int(age)
+
+print(type(age))
+print(type(age_age))
+
+print(age_num + 5)
